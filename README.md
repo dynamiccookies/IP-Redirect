@@ -54,4 +54,4 @@ Boolean (true/false) variable to determine whether `http` or `https` should be u
 
 ## License
 
-This project uses the following license: [MIT](LICENSE).
+This project uses the following license: [Unlicense](LICENSE).
